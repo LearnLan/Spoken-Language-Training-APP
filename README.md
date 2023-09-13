@@ -7,3 +7,6 @@ Spoken Language Training APP is language practice app,you can practice your IELT
 https://hsktest.xyz/spoken.zip
 
 <img src="s.png">
+
+# purchase
+https://hsktest.xyz/spoken.php
