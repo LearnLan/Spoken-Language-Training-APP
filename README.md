@@ -8,5 +8,4 @@ https://hsktest.xyz/spoken.zip
 
 <img src="s.png">
 
-# purchase
-https://hsktest.xyz/spoken.php
+
